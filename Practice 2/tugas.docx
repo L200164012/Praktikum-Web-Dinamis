@@ -1,0 +1,46 @@
+﻿No
+Tag/Attribute
+Function
+1
+<a href=’halaman2.html’>
+Change to halaman2.html display
+2
+<a href=’http://www.google.com’>
+Change to www.google.com display
+3
+<a href=’referensi’>
+Change to other position in a html display
+4
+target=’_blank’
+Target to the new tab
+5
+<INPUT type=’checkbox’>
+Showing input based on checkbox
+6
+name=’cekSing’
+Give name cekSing
+7
+<INPUT type=’text’>
+Showing input based on text
+8
+Id=’txtKota’
+Give id txtKota
+9
+maxlenght=’20’
+Wrong attribute, it must be maxlength=’(int)’, it will limit the input character according to the defined integer
+10
+<TEXTAREA></TEXTAREA>
+Showing input with in the form of text area
+11
+cols=’20’
+Size of text area
+12
+&nbsp;
+Give space character
+13
+<marquee>...</marquee>
+Move object on the display of html(animated)
+14
+<blink>...</blink>
+Make object blinks(animated)
+
