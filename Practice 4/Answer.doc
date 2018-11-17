@@ -1,0 +1,46 @@
+﻿Name 	: Wahyu Purnama Widya Leksana
+NIM	: L200164012
+Class : A
+
+Practice 1
+
+
+Practice 2
+
+
+Practice 3
+
+
+
+Practice 4
+
+
+
+Practice 5
+
+
+Practice 6
+
+
+Practice 7
+
+
+Practice 8
+
+
+Practice 9
+
+
+Practice 10
+
+
+
+Assignment :
+1. Function from each(In Bahasa):
+Select 	: Mengambil data ataupun mengambil & menampilkan data dari database
+Join 		: Menggabungkan baris pada 2/lebih tabel berdasar kolom yang berkaitan
+Left Join	: Seperti join, namun mengembalikan semua data dari tabel pertama(left) 		  dan data yang cocok(match) pada tabel yang kanan
+Right Join	: Kebalikan Left Join
+AVG		: Mengembalikan nilai rata-rata dari kolom numerik
+SUM		: Mengembalikan total nilai dari kolom numerik
+2.  Update mahasiswa Set alamat = 'Sragen' Where nim = 'L200080080'; 
